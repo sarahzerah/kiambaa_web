@@ -1525,7 +1525,7 @@ f19433
 }
 
 h1,h2,h3,h4,h5,.lead,div[data-toggle="collapse"]{
-    font-family: 'sources sans regular', sources sans regular;
+    font-family: 'sources sans regular';
 }
 ul li{
     list-style:one;
@@ -1639,12 +1639,12 @@ h1 {
 /* gallary */
 
 .photo-gallery {
-  color:#313437;
+  color:#2e3192;
   background-color:#fff;
 }
 
 .photo-gallery p {
-  color:#7d8285;
+  color:#2e3192;
 }
 
 .photo-gallery h2 {
